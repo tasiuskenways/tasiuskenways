@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on PT. Phincon [MyTelkomsel Android App](https://play.google.com/store/apps/details?id=com.telkomsel.telkomselcm&hl=en_US&gl=US)
 
-- 🌱 I’m currently learning **Fivem Development Using QBOX Framework**
+- 🌱 I’m currently learning **Fivem Development Using [QBOX Framework](https://github.com/Qbox-project)**
 
 - 📫 Reach me on discord **tasius_**
 
